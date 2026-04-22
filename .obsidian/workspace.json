@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/SKILLs/Untitled.md",
+                "file": "Work/Code Review Labelek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Code Review Labelek"
             }
           },
           {
@@ -280,21 +280,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e4bae60bf929763",
+  "active": "4857099f8614d39b",
   "lastOpenFiles": [
+    "Work/Projects/SDA.md",
+    "Work/Code Review Labelek.md",
+    "Work/Projects/NN-7.4.md",
+    "Screenshot from 2026-04-22 15-32-35.png",
+    "Work/Projects/Sadara.md",
+    "Programming,tech/Docker.md",
+    "Programming,tech/Python.md",
+    "AI/SKILLs/English Prompt improver.md",
+    "AI/SKILLs/Untitled.md",
     "AI/SKILLs",
     "Work/Projects/STC.md",
-    "AI/SKILLs/Untitled.md",
     "Personal/Workout/Hamstring prehab,rehab.md",
     "Personal/TODO.md",
     "Personal/Workout",
     "AI/Cursor.md",
     "AI/Claude.md",
     "AI/General AI notes.md",
-    "Programming/Python.md",
     "AI/Important links.md",
     "Personal/Eating.md",
-    "Programming",
+    "Programming,tech",
     "Work/Projects",
     "Work/Daily to-do work.md",
     "Work/Liferay.md",
