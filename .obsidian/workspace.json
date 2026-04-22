@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/General AI notes.md",
+                "file": "AI/Cursor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General AI notes"
+              "title": "Cursor"
             }
           },
           {
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python.md",
+                "file": "AI/Cursor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python"
+              "title": "Backlinks for Cursor"
             }
           },
           {
@@ -232,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python.md",
+                "file": "AI/Cursor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python"
+              "title": "Outgoing links from Cursor"
             }
           },
           {
@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python.md",
+                "file": "AI/Cursor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python"
+              "title": "Outline of Cursor"
             }
           }
         ]
@@ -300,16 +300,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a6c7f75547edcae",
+  "active": "4494d21c6390dbef",
   "lastOpenFiles": [
     "AI/Claude.md",
-    "AI/Important links.md",
     "AI/General AI notes.md",
-    "Work/Projects/STC.md",
     "Programming/Python.md",
+    "AI/Important links.md",
+    "Work/Projects/STC.md",
     "Personal/Eating.md",
     "Programming",
     "Personal/Workout.md",
