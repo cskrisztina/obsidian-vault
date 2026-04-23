@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/SKILLs/AI daily news from my computer.md",
+                "file": "Work/Projects/MAVIR Support.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI daily news from my computer"
+              "title": "MAVIR Support"
             }
           },
           {
@@ -282,13 +282,14 @@
   },
   "active": "4857099f8614d39b",
   "lastOpenFiles": [
+    "AI/SKILLs/AI daily news from my computer.md",
+    "Work/Projects/MAVIR Support.md",
     "AI/SKILLs/AI daily news skill for Claude Routin.md",
     "AI/Important links.md",
     "AI/General AI notes.md",
     "AI/Claude.md",
     "AI/Cursor.md",
     "AI/SKILLs/English Prompt improver.md",
-    "AI/SKILLs/AI daily news from my computer.md",
     "Work/Code Review Labelek.md",
     "Work/Projects/SDA.md",
     "Work/Projects/NN-7.4.md",
